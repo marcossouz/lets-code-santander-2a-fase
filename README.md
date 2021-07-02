@@ -6,3 +6,11 @@
 - Lives serão nos dias 8 e 15 de Julho das 18h às 19h
 - Dia 20 de Julho -> um teste para 3a fase
 </p>
+
+
+<p align="center">
+
+- Referências
+- https://www.w3schools.com/jsref/
+- https://developer.mozilla.org/en-US/
+</p>
