@@ -6,12 +6,15 @@ import ReactDOM from 'react-dom';
 // import App4 from './components/App4';
 // import App5 from './components/App5';
 // import { Lista, Item } from './components/Lista';
-import Formulario from './components/Formulario';
+// import Formulario from './components/Formulario';
+import Hello from './components/Hello';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Formulario />
+    <Hello text="Olá">
+      <h1>Hello</h1>
+    </Hello>
   </React.StrictMode>,
   document.getElementById('root')
 );
