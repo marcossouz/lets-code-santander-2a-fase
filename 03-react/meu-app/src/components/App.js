@@ -1,18 +1,22 @@
-import React from 'react';
+import React, {useState, useEffect} from 'react';
 
-class App extends React.Component {
-  render() {
-    return (
-      <>
-        <p>Meu primeiro parágrafo em React.</p>
-        <p>Meu segundo parágrafo em React.</p>
-        <div>
-          <pre>Cansei de parágrafos...</pre>
-        </div>
-        <p>{new Date().toLocaleDateString("pt-BR")}</p>
-      </>
-    )
-  }
+export default function App(){
+
+  const [nome, setNome] = useState('');
+
+  useEffect(() => {
+    if(nome === ''){
+      setNome(sessionStorage.getItem('nome') || "");
+    } 
+    else{
+      sessionStorage.setItem('nome', nome);
+    }
+  }, [nome]);
+
+  return (
+    <>
+      <input type='text' onChange={(evt) => setNome(evt.target.value)} value={nome} />
+      <h1>{nome}</h1>
+    </>
+  );
 }
-
-export default App;
