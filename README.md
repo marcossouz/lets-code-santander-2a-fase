@@ -1,16 +1,20 @@
-<h1 align="center">lets-code-santander-2a-fase</h1>
+# Let's code Santander (2a Fase)
 
-<p align="center"> 
 
-- Do dia 01 ao 18 de Julho
-- Lives serão nos dias 8 e 15 de Julho das 18h às 19h
-- Dia 20 de Julho -> um teste para 3a fase
+Etapa 2 de 5 para seleção no curso `Santander Web Fullstack` com duração de 6 meses.
+
+
+- Dias 01 a 18 de Julho
+- Lives
+    - Dia 8 de julho, 18h
+        - <a href="https://www.youtube.com/watch?v=F0XcblUoCJw">Live 01</a>
+        - <a href="https://github.com/Lets-Code-Br/Santander-Web-Fullstack">Source 01</a>
+    - Dia 15 de Julho, 18h
+- Teste de seleção para a proxima fase
+    - Dia 20 de Julho
 </p>
 
 
-<p align="center">
-
-- Referências
+# Referências
 - https://www.w3schools.com/jsref/
 - https://developer.mozilla.org/en-US/
-</p>
