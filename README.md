@@ -22,5 +22,9 @@ Etapa 2 de 5 para seleção no curso <a href="https://github.com/Lets-Code-Br" t
 - https://www.w3schools.com/jsref/
 - https://developer.mozilla.org/en-US/
 - https://vitejs.dev/guide/#scaffolding-your-first-vite-project
-
-  
+- https://github.com/robertoduessmann/weather-api
+- https://goweather.herokuapp.com/weather/{city}
+- https://developer.mozilla.org/pt-BR/docs/Web/API/Window/localStorage
+- https://github.com/public-apis/public-apis
+- https://docs.microsoft.com/pt-br/windows/wsl/install-win10
+- https://git-scm.com/downloads
