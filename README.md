@@ -15,7 +15,11 @@ Etapa 2 de 5 para seleção no curso <a href="https://github.com/Lets-Code-Br" t
 
 #### Teste de seleção para a proxima fase
 
-- Dia 20 de Julho
+- Dia 20 de Julho (Aprovado)
+
+#### Dinamica de grupo (Ultima Fase)
+
+- Dia 11 de Agosto 
 
 #### Referências
 
